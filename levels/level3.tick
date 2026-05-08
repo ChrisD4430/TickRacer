@@ -1,0 +1,28 @@
+signal 102
+wait 0.7
+
+signal 2
+ping
+
+signal 1
+ping
+
+signal 3
+ping
+
+signal 2
+ping
+
+signal 1
+ping
+
+signal 1
+ping
+
+signal 2
+ping
+
+signal 3
+ping
+
+signal 200
