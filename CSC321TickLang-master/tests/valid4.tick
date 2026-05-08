@@ -1,0 +1,5 @@
+signal 10
+wait 2
+signal 20
+wait 1
+signal 10

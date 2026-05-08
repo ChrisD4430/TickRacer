@@ -1,0 +1,4 @@
+wait 3
+signal 4
+wait 4
+signal 3

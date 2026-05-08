@@ -1,0 +1,4 @@
+wait 3
+signal 1
+wait 2
+signal 20000
